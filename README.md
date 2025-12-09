@@ -4,7 +4,7 @@
 
 ## 2026 Goals
 
-### Competitive programming / fundamentals
+### CS
 - [ ] Reach and hold Codeforces 1700+ for at least 3 rated contests in 2026 OR touch 1800+ at least once.
 - [ ] Solve 900 problems on LC and codeforces combined.
 
