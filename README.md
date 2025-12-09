@@ -7,7 +7,6 @@
 ### Competitive programming / fundamentals
 - [ ] Reach and hold Codeforces 1700+ for at least 3 rated contests in 2026 OR touch 1800+ at least once.
 - [ ] Solve 900 problems on LC and codeforces combined.
-- [ ] Reach 150 WPM on 60s typing tests.
 
 ### Projects / building
 - [ ] Ship 2 public projects that each have at least 20 recurring users (or equivalent: 20 servers using a bot, 20 people in a Discord, 20 active installs).
@@ -16,6 +15,9 @@
 ### Career / external signal
 - [ ] Land one strong internship or research position (AI infra / systems / quant adjacent).
 - [ ] Have one notable external validation: hackathon prize, accepted talk/post, fellowship, or a widely shared technical blog post.
+
+### Miscellaneous
+- [ ] Reach 150 WPM on 60s typing tests.
 
 ## 2026 Monthly Check-ins
 
