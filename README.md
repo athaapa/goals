@@ -1,3 +1,7 @@
+## Principles
+- Full-time student; goals should not destroy health or grades.
+- Prioritize depth over box-ticking if there's a conflict.
+
 ## 2026 Goals
 
 ### Competitive programming / fundamentals
@@ -15,7 +19,7 @@
 ## 2026 Monthly Check-ins
 
 | Month | CF rating | Problems solved (YTD) | Projects shipped | Active users | Career progress |
-|-------|-----------|----------------------|------------------|--------------|-----------------|
+|-------|-----------|----------------------|------------------|--------------|--------------------|
 | Jan   |           |                      |                  |              |                 |
 | Feb   |           |                      |                  |              |                 |
 | Mar   |           |                      |                  |              |                 |
