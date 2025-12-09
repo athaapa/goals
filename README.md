@@ -5,8 +5,8 @@
 ## 2026 Goals
 
 ### Competitive programming / fundamentals
-- [ ] Reach Codeforces 1600+ and maintain it for at least 3 rated contests.
-- [ ] Solve 350+ new problems across Codeforces/LeetCode (track in a spreadsheet).
+- [ ] Reach and hold Codeforces 1700+ for at least 3 rated contests in 2026 OR touch 1800+ at least once.
+- [ ] Solve 900 problems on LC and codeforces combined.
 
 ### Projects / building
 - [ ] Ship 2 public projects that each have at least 20 recurring users (or equivalent: 20 servers using a bot, 20 people in a Discord, 20 active installs).
