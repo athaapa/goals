@@ -11,3 +11,20 @@
 ### Career / external signal
 - [ ] Land one strong internship or research position (AI infra / systems / quant adjacent).
 - [ ] Have one notable external validation: hackathon prize, accepted talk/post, fellowship, or a widely shared technical blog post.
+
+## 2026 Monthly Check-ins
+
+| Month | CF rating | Problems solved (YTD) | Projects shipped | Active users | Career progress |
+|-------|-----------|----------------------|------------------|--------------|-----------------|
+| Jan   |           |                      |                  |              |                 |
+| Feb   |           |                      |                  |              |                 |
+| Mar   |           |                      |                  |              |                 |
+| Apr   |           |                      |                  |              |                 |
+| May   |           |                      |                  |              |                 |
+| Jun   |           |                      |                  |              |                 |
+| Jul   |           |                      |                  |              |                 |
+| Aug   |           |                      |                  |              |                 |
+| Sep   |           |                      |                  |              |                 |
+| Oct   |           |                      |                  |              |                 |
+| Nov   |           |                      |                  |              |                 |
+| Dec   |           |                      |                  |              |                 |
