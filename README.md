@@ -5,7 +5,7 @@
 ## 2026 Goals
 
 ### CS
-- [ ] Reach and hold Codeforces 1700+ for at least 3 rated contests in 2026 **OR** touch 1800+ at least once.
+- [ ] Maintain Codeforces 1600+ for 3 contests or touch 1700+.
 - [ ] Solve 900 problems on LC and codeforces combined.
 
 ### Projects / building
