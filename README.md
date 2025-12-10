@@ -17,7 +17,7 @@
 - [ ] Have one notable external validation: hackathon prize, accepted talk/post, fellowship, or a widely shared technical blog post.
 
 ### Miscellaneous
-- [ ] Reach 150 WPM on 60s typing tests.
+- [ ] Reach 150 WPM on 60s typing tests with proper technique.
 
 ## 2026 Monthly Check-ins
 
