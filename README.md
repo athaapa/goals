@@ -19,7 +19,7 @@
 ### Miscellaneous
 - [ ] Reach 150 WPM on 60s typing tests with proper technique.
 
-## 2026 Monthly Check-ins
+### 2026 Monthly Check-ins
 
 | Month | CF rating | Problems solved (YTD) | Projects shipped | Active users | Career progress |
 | ----- | --------- | --------------------- | --------------- | ------------ | --------------- |
