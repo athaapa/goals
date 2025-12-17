@@ -9,8 +9,8 @@
       
 ### Projects / building
 - [ ] Ship 2 projects **with strong technical documentation**:
-  • **Utility**: Clamp → HN/blog/distribution push (users bonus)
-  • **Systems**: DB/compiler (blog post required, users optional)
+  - **Utility**: Clamp → HN/blog/distribution push (users bonus)
+  - **Systems**: DB/compiler (blog post required, users optional)
 - [ ] Write 6 technical blog posts with implementation details/architecture decisions
       
 ### Career / external signal
