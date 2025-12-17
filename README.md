@@ -6,32 +6,13 @@
 
 ### CS
 - [ ] Maintain Codeforces 1600+ for 3 contests or touch 1700+.
-- [ ] Solve 900 problems on LC and codeforces combined.
-
+      
 ### Projects / building
-- [ ] Ship 2 public projects that each have at least 20 recurring users (or equivalent: 20 servers using a bot, 20 people in a Discord, 20 active installs).
-- [ ] Get to 100+ total GitHub stars across your repos.
-
+- [ ] Ship 2 projects **with strong technical documentation**:
+  • **Utility**: Clamp → HN/blog/distribution push (users bonus)
+  • **Systems**: DB/compiler (blog post required, users optional)
+- [ ] Write 6 technical blog posts with implementation details/architecture decisions
+      
 ### Career / external signal
 - [ ] Land one strong internship or research position.
-- [ ] Have one notable external validation: hackathon prize, accepted talk/post, fellowship, or a widely shared technical blog post.
-
-### Miscellaneous
-- [ ] Reach 150 WPM on 60s typing tests with proper technique.
-
-### 2026 Monthly Check-ins
-
-| Month | CF rating | Problems solved (YTD) | Projects shipped | Active users | Career progress |
-| ----- | --------- | --------------------- | --------------- | ------------ | --------------- |
-| Jan   |           |                       |                 |              |                 |
-| Feb   |           |                       |                 |              |                 |
-| Mar   |           |                       |                 |              |                 |
-| Apr   |           |                       |                 |              |                 |
-| May   |           |                       |                 |              |                 |
-| Jun   |           |                       |                 |              |                 |
-| Jul   |           |                       |                 |              |                 |
-| Aug   |           |                       |                 |              |                 |
-| Sep   |           |                       |                 |              |                 |
-| Oct   |           |                       |                 |              |                 |
-| Nov   |           |                       |                 |              |                 |
-| Dec   |           |                       |                 |              |                 |
+- [ ] Get 5+ meaningful open source PRs merged into projects with 1k+ stars
