@@ -1,18 +1,46 @@
-## Principles
-- Full-time student; goals should not destroy health or grades.
-- Prioritize depth over box-ticking if there's a conflict.
+# 2026 Strategy
 
-## 2026 Goals
+**Focus:** Top 1% Technical Authority • Density over Volume
 
-### CS
-- [ ] Maintain Codeforces 1600+ for 3 contests or touch 1700+.
-      
-### Projects / building
-- [ ] Ship 2 projects **with strong technical documentation**:
-  - **Utility**: Clamp → HN/blog/distribution push (users bonus)
-  - **Systems**: DB/compiler (blog post required, users optional)
-- [ ] Write 6 technical blog posts with implementation details/architecture decisions
-      
-### Career / external signal
-- [ ] Land one strong internship or research position.
-- [ ] Get 5+ meaningful open source PRs merged into projects with 1k+ stars
+## 1. Computer Science
+
+- [ ] **Codeforces:** Rating 1600 (Expert). 1-2 contests/week.
+- [ ] **Academics:** 3.8+ GPA. Prioritize Linear Algebra (Math 208) & Systems.
+
+## 2. Magnum Opus: "TinyInfer" (C++/CUDA)
+
+**Goal:** Bare-metal LLM inference engine. No PyTorch.
+
+### Q1 (Jan–Mar): Foundation
+
+- [ ] **Clamp:** Launch on HN. Freeze if <100 stars.
+- [ ] **Skills:** Modern C++ (Pointers, Memory, Makefiles).
+- [ ] **Env:** WSL2 + NVCC setup.
+
+### Q2 (Apr–Jun): The Metal
+
+- [ ] **Kernels:** Write `naive_matmul.cpp` vs `cuda_matmul.cu`.
+- [ ] **Metric:** Beat CPU by 10x.
+- [ ] **Writing:** Blog Post: "My First CUDA Kernel".
+
+### Q3 (Jul–Sep): Architecture
+
+- [ ] **Core:** Implement Self-Attention, RMSNorm, RoPE.
+- [ ] **Verify:** Match PyTorch outputs exactly.
+- [ ] **Writing:** Blog Post: "Transformers in C++".
+
+### Q4 (Oct–Dec): Product
+
+- [ ] **Ship:** CLI tool loading `stories15M.bin`.
+- [ ] **Leverage:** Apply to Google STEP, Uber STAR, HFT.
+
+## 3. Summer 2026 (The Hunt)
+
+- [ ] **Startups:** 5 cold emails/week (Jan–Mar) to Seed stage founders.
+- [ ] **Research:** Cold email UW SAMPL/Syslab with project demo.
+
+## 4. Habits & Output
+
+- [ ] **Daily:** 1 Codeforces/Leetcode problem (Morning).
+- [ ] **Weekly:** 10 Hours Deep Build (Wednesday God Block).
+- [ ] **OSS:** 1 merged PR into a systems repo (e.g., burn, candle).
